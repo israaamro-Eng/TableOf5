@@ -17,10 +17,10 @@ public class MultyTable : MonoBehaviour
         
     }
 
-   int Multiply(int num1 , int num2) 
-   {
-    int theResult;
-    theResult= num1 * num2;
-    return theResult;
-   }
+     int Multiply(int num1 , int num2) 
+     {
+         int theResult;
+         theResult= num1 * num2;
+         return theResult;
+     }
 }
